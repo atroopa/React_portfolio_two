@@ -1,12 +1,10 @@
+import NavBar from './components/NavBar.jsx';
 
 function App() {
   return (
     <div>
 
-      <h1 className="text-4xl font-bold
-                     font-signature">
-                       Omid
-      </h1>
+      <NavBar/>
 
     </div>
   );
