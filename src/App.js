@@ -1,3 +1,4 @@
+import Home from './components/Home.jsx';
 import NavBar from './components/NavBar.jsx';
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <div>
 
       <NavBar/>
+      <Home/>
 
     </div>
   );
