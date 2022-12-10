@@ -1,5 +1,6 @@
 import Home from './components/Home.jsx';
 import NavBar from './components/NavBar.jsx';
+import SocialLinks from './components/SocialLinks.jsx';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
 
       <NavBar/>
       <Home/>
+      <SocialLinks/>
 
     </div>
   );
