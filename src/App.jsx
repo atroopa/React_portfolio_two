@@ -4,6 +4,7 @@ import Home from './components/Home.jsx';
 import NavBar from './components/NavBar.jsx';
 import Portfolio from './components/Portfolio.jsx';
 import SocialLinks from './components/SocialLinks.jsx';
+import Contact from './components/Contact.jsx';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About/>
       <Portfolio/>
       <Experience/>
+      <Contact/>
       <SocialLinks/>
 
     </div>
